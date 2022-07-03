@@ -1,0 +1,49 @@
+,feature,value
+0,age,50
+1,sex,male
+2,ECG date,24/01/1991
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),anterior
+6,Former infarction (localization),no
+7,Additional diagnoses,Hyperlipoproteinemia Type IV
+8,Smoker,yes
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),21-Jan-91
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,28-Jan-91
+15,Ventriculography,Akinesia antero-lateral wall and apex
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),120/90 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),19/7 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),10 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),6 cmH2O
+21,Cardiac output (at rest),"6,75 l/min"
+22,Cardiac index (at rest),"3,51 l/min/sqrmBSA"
+23,Stroke volume index (at rest),53.4 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),47/18 cmH2O
+25,Pulmonary artery pressure (laod) (mean),32 cmH2O
+26,Pulmonary capillary wedge pressure (load),23 cmH2O
+27,Cardiac output (load),"18,9 l/min"
+28,Cardiac index (load),"6,03 l/min/sqrmBSA"
+29,Stroke volume index (load),"62,8 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,"pre ventriculography  6, post ventriculography 14 cmH2O"
+33,Left coronary artery stenoses (RIVA),RIVA distal to ramus diagonalis_2 50-70%
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,21-Jan-91
+39,Catheterization date,28-Jan-91
+40,Admission date,21-Jan-91
+41,Medication pre admission,-
+42,Start lysis therapy (hh.mm),10
+43,Lytic agent,Urokinase
+44,Dosage (lytic agent),3 Mio IE
+45,Additional medication,Heparin ASA Isosorbit-Dinitrate Atropin
+46,In hospital medication,ASA Isosorbit-Dinitrate
+47,Medication after discharge,ASA Isosorbit-Dinitrate

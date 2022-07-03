@@ -1,0 +1,49 @@
+,feature,value
+0,age,62
+1,sex,female
+2,ECG date,17/11/1990
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),inferior
+6,Former infarction (localization),no
+7,Additional diagnoses,Arterial hypertension
+8,Smoker,no
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),06-Nov-90
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,13-Nov-90
+15,Ventriculography,Hypokinesia/Akinesia apex and inferior wall
+16,Chest X-ray,Heart size upper limit of norm
+17,Peripheral blood Pressure (syst/diast),140/70 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),21/11 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),16 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),6 cmH2O
+21,Cardiac output (at rest),"4,48 l/min"
+22,Cardiac index (at rest),"2,68 l/min/sqrmBSA"
+23,Stroke volume index (at rest),29.7 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),43/19 cmH2O
+25,Pulmonary artery pressure (laod) (mean),31 cmH2O
+26,Pulmonary capillary wedge pressure (load),17 cmH2O
+27,Cardiac output (load),"8,39 l/min"
+28,Cardiac index (load),"5,01 l/min/sqrmBSA"
+29,Stroke volume index (load),"36,3 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),No stenoses
+34,Left coronary artery stenoses (RCX),Ramus postero-lateralis 95%
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,06-Nov-90
+39,Catheterization date,13-Nov-90
+40,Admission date,06-Nov-90
+41,Medication pre admission,etilephrin
+42,Start lysis therapy (hh.mm),16
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 MIO IE
+45,Additional medication,Nitrate Triflupromazin Diazepam
+46,In hospital medication,Ca-antagonist ASA Isosorbit-Mononitrate Metoprolol Buprenorphin
+47,Medication after discharge,Metprolol ASA

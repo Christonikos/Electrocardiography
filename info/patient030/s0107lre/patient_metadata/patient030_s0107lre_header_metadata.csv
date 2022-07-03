@@ -1,0 +1,49 @@
+,feature,value
+0,age,63
+1,sex,male
+2,ECG date,21/01/1991
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),antero-septal
+6,Former infarction (localization),no
+7,Additional diagnoses,no
+8,Smoker,yes
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),15-Jan-91
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,06-Jun-91
+15,Ventriculography,"Akinesia antero-lateral and apex, inferior wall and distal septum"
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),115/70 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),32/12 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),20 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),14 cmH2O
+21,Cardiac output (at rest),"5,43 l/min"
+22,Cardiac index (at rest),"2,76 l/min/sqrmBSA"
+23,Stroke volume index (at rest),46.1 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),63/23 cmH2O
+25,Pulmonary artery pressure (laod) (mean),46 cmH2O
+26,Pulmonary capillary wedge pressure (load),35 cmH2O
+27,Cardiac output (load),8 l/min
+28,Cardiac index (load),"4,07 l/min/sqrmBSA"
+29,Stroke volume index (load),"48,5 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),RIVA distal to ramus diagonalis_1 90%
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,15-Jan-91
+39,Catheterization date,06-Jun-91
+40,Admission date,15-Jan-91
+41,Medication pre admission,-
+42,Start lysis therapy (hh.mm),06
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 Mio IE
+45,Additional medication,Heparin Isosorbit-Mononitrate Furosemide Metoprolol
+46,In hospital medication,Isosorbit-Mononitrate Metprolol ASA
+47,Medication after discharge,Isosorbit-Dinitrate ASA Captopril Furosemide Phenprocoumon

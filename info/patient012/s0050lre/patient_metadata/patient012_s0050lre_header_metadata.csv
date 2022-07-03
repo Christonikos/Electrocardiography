@@ -1,0 +1,49 @@
+,feature,value
+0,age,67
+1,sex,male
+2,ECG date,17/11/1990
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),inferior
+6,Former infarction (localization),inferior
+7,Additional diagnoses,Renal insufficiency
+8,Smoker,yes
+9,Number of coronary vessels involved,3
+10,Infarction date (acute),09-Nov-90
+11,Previous infarction (1) date,01-Jan-83
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,16-Nov-90
+15,Ventriculography,"Akinesia inferior wall, Hypokinesia/Akinesia posterior wall"
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),130/80 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),25/8 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),14 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),3 cmH2O
+21,Cardiac output (at rest),"3,63 l/min"
+22,Cardiac index (at rest),"1,85 l/min/sqrmBSA"
+23,Stroke volume index (at rest),31.4 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),46/20 cmH2O
+25,Pulmonary artery pressure (laod) (mean),27 cmH2O
+26,Pulmonary capillary wedge pressure (load),11 cmH2O
+27,Cardiac output (load),"7,04 l/min"
+28,Cardiac index (load),"3,59 l/min/sqrmBSA"
+29,Stroke volume index (load),"48,5 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,5 cmH2O
+33,Left coronary artery stenoses (RIVA),"RIVA distal to ramus diagonalis_1  60%,"
+34,Left coronary artery stenoses (RCX),RCX distal to ramus marginalis sinister_1 75%
+35,Right coronary artery stenoses (RCA),RCA proximal 70%.
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,09-Nov-90
+39,Catheterization date,16-Nov-90
+40,Admission date,09-Nov-90
+41,Medication pre admission,Nitrate
+42,Start lysis therapy (hh.mm),13
+43,Lytic agent,Gamma-TPA
+44,Dosage (lytic agent),30 mg
+45,Additional medication,Heparin ASA Diazepam Isosorbit-Mononitrate Ranitidin
+46,In hospital medication,ASA Isosorbit-Mononitrate Ranitidin
+47,Medication after discharge,ASA Isosorbit-Mononitrate

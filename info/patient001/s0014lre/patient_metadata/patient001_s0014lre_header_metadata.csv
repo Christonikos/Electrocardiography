@@ -1,0 +1,49 @@
+,feature,value
+0,age,81
+1,sex,female
+2,ECG date,17/10/1990
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),infero-latera
+6,Former infarction (localization),no
+7,Additional diagnoses,Diabetes mellitus
+8,Smoker,no
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),29-Sep-90
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,16-Oct-90
+15,Ventriculography,Akinesia inferior wall
+16,Chest X-ray,Heart size upper limit of norm
+17,Peripheral blood Pressure (syst/diast),140/80 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),n/a
+19,Pulmonary artery pressure (at rest) (mean),n/a
+20,Pulmonary capillary wedge pressure (at rest),n/a
+21,Cardiac output (at rest),n/a
+22,Cardiac index (at rest),n/a
+23,Stroke volume index (at rest),n/a
+24,Pulmonary artery pressure (laod) (syst/diast),n/a
+25,Pulmonary artery pressure (laod) (mean),n/a
+26,Pulmonary capillary wedge pressure (load),n/a
+27,Cardiac output (load),n/a
+28,Cardiac index (load),n/a
+29,Stroke volume index (load),n/a
+30,Aorta (at rest) (syst/diast),160/64 cmH2O
+31,Aorta (at rest) mean,106 cmH2O
+32,Left ventricular enddiastolic pressure,11 cmH2O
+33,Left coronary artery stenoses (RIVA),RIVA 70% proximal to ramus diagonalis_2
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,29-Sep-90
+39,Catheterization date,16-Oct-90
+40,Admission date,29-Sep-90
+41,Medication pre admission,Isosorbit-Dinitrate Digoxin Glibenclamide
+42,Start lysis therapy (hh.mm),19
+43,Lytic agent,Gamma-TPA
+44,Dosage (lytic agent),30 mg
+45,Additional medication,Heparin Isosorbit-Mononitrate ASA Diazepam
+46,In hospital medication,ASA Isosorbit-Mononitrate Ca-antagonist Amiloride+Chlorothiazide Glibenclamide Insulin
+47,Medication after discharge,ASA Isosorbit-Mononitrate Amiloride+Chlorothiazide Glibenclamide

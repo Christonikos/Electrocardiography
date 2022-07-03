@@ -1,0 +1,49 @@
+,feature,value
+0,age,52
+1,sex,male
+2,ECG date,19/11/1990
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),infero-poster-lateral
+6,Former infarction (localization),no
+7,Additional diagnoses,"Arterial hypertension, Obesity, Hyperlipoproteinemia Type IIa"
+8,Smoker,no
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),17-Nov-90
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,27-Nov-90
+15,Ventriculography,Akinesia infero-posterior wall and apex
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),130/80 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),11/5 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),7 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),4 cmH2O
+21,Cardiac output (at rest),"7,17 l/min"
+22,Cardiac index (at rest),"3,5 l/min/sqrmBSA"
+23,Stroke volume index (at rest),44.0 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),22/10 cmH2O
+25,Pulmonary artery pressure (laod) (mean),14 cmH2O
+26,Pulmonary capillary wedge pressure (load),9 cmH2O
+27,Cardiac output (load),"14,9 l/min"
+28,Cardiac index (load),"7,3 l/min/sqrmBSA"
+29,Stroke volume index (load),70 ml/beat
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,3 cmH2O
+33,Left coronary artery stenoses (RIVA),No stenoses
+34,Left coronary artery stenoses (RCX),Ramus marginalis sinister_2 of RCX  80% at origin
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,17-Nov-90
+39,Catheterization date,27-Nov-90
+40,Admission date,17-Nov-90
+41,Medication pre admission,Amiloride+Chlorothiazide
+42,Start lysis therapy (hh.mm),09
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 Mio IE
+45,Additional medication,Nitrate Heparin ASA Ca-antagonist Atropin Triflupromazin
+46,In hospital medication,ASA Isosorbit-Dinitrate Metoprolol Lovastatin
+47,Medication after discharge,Isosorbit-Dinitrate ASA Metoprolol Lovastatin

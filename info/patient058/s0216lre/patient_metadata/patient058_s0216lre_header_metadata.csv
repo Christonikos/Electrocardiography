@@ -1,0 +1,49 @@
+,feature,value
+0,age,52
+1,sex,female
+2,ECG date,09/09/1991
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),antero-septal
+6,Former infarction (localization),no
+7,Additional diagnoses,"Gastric ulcers, Struma nodosa"
+8,Smoker,yes
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),11-Jul-91
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,18-Jul-91
+15,Ventriculography,Akinesia antero-lateral wall and apex
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),100/60 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),13/6 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),9 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),3 cmH2O
+21,Cardiac output (at rest),"4,31 l/min"
+22,Cardiac index (at rest),"2,61 l/min/sqrmBSA"
+23,Stroke volume index (at rest),33.0 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),40/25 cmH2O
+25,Pulmonary artery pressure (laod) (mean),32 cmH2O
+26,Pulmonary capillary wedge pressure (load),26 cmH2O
+27,Cardiac output (load),"6,23 l/min"
+28,Cardiac index (load),"3,83 l/min/sqrmBSA"
+29,Stroke volume index (load),26 ml/beat
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,"pre ventriculography 3, post ventriculography 12 cmH2O"
+33,Left coronary artery stenoses (RIVA),"RIVA proximal to ramus diagonalis_1 50%,  disatal to ramus diagonalis_1 50%"
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),n/a
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,11-Jul-91
+39,Catheterization date,18-Jul-91
+40,Admission date,11-Jul-91
+41,Medication pre admission,L-Thyroxin Ranitidin Estrogen/Gestagen
+42,Start lysis therapy (hh.mm),10
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 Mio IE
+45,Additional medication,Nitrate Heparin ASA L-Thyroxin Omeprazol Atropin
+46,In hospital medication,ASA Isosorbit-Mononitrate Amiloride+Chlorothiazide Diazepam L-Thyrox
+47,Medication after discharge,ASA Isosorbit-Mononitrate Amiloride+Chlorothiazide Omeprazol Diazepam L-Thyroxin

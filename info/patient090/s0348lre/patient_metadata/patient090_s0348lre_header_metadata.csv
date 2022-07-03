@@ -1,0 +1,49 @@
+,feature,value
+0,age,51
+1,sex,male
+2,ECG date,27/10/1992
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),inferior
+6,Former infarction (localization),no
+7,Additional diagnoses,"Obesity, Arterial hypertension"
+8,Smoker,yes
+9,Number of coronary vessels involved,0
+10,Infarction date (acute),26-Oct-92
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,16-Nov-92
+15,Ventriculography,Hypokinesia antero-lateral wall
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),150/90 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),n/a
+19,Pulmonary artery pressure (at rest) (mean),n/a
+20,Pulmonary capillary wedge pressure (at rest),n/a
+21,Cardiac output (at rest),n/a
+22,Cardiac index (at rest),n/a
+23,Stroke volume index (at rest),n/a
+24,Pulmonary artery pressure (laod) (syst/diast),n/a
+25,Pulmonary artery pressure (laod) (mean),n/a
+26,Pulmonary capillary wedge pressure (load),n/a
+27,Cardiac output (load),n/a
+28,Cardiac index (load),n/a
+29,Stroke volume index (load),n/a
+30,Aorta (at rest) (syst/diast),132/62 cmH2O
+31,Aorta (at rest) mean,86 cmH2O
+32,Left ventricular enddiastolic pressure,"pre ventriculography 7, post ventriculography 14 cmH2O"
+33,Left coronary artery stenoses (RIVA),No stenoses
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,26-Oct-92
+39,Catheterization date,16-Nov-92
+40,Admission date,26-Oct-92
+41,Medication pre admission,Lactulose
+42,Start lysis therapy (hh.mm),12
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 Mio IE
+45,Additional medication,Heparin ASA Isosorbit-Dinitrate Molsidomin
+46,In hospital medication,ASA
+47,Medication after discharge,ASA

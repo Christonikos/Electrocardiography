@@ -1,0 +1,49 @@
+,feature,value
+0,age,60
+1,sex,male
+2,ECG date,19/11/1990
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),infero-lateral
+6,Former infarction (localization),inferior
+7,Additional diagnoses,Arterial hypertension
+8,Smoker,no
+9,Number of coronary vessels involved,2
+10,Infarction date (acute),18-Nov-90
+11,Previous infarction (1) date,01-Jan-86
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,26-Nov-90
+15,Ventriculography,Hypokinesia/Akinesia postero-basal and posero-lateral wall
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),150/90 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),17/8 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),12 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),3 cmH2O
+21,Cardiac output (at rest),"4,2 l/min"
+22,Cardiac index (at rest),"2,46 l/min/sqrmBSA"
+23,Stroke volume index (at rest),24.1 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),20/10 cmH2O
+25,Pulmonary artery pressure (laod) (mean),15 cmH2O
+26,Pulmonary capillary wedge pressure (load),3 cmH2O
+27,Cardiac output (load),"7,57 l/min"
+28,Cardiac index (load),"4,43 l/min/sqrmBSA"
+29,Stroke volume index (load),"36,9 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),RIVA distal to ramus diagonalis_2 70%.
+34,Left coronary artery stenoses (RCX),RCX at origin 50%
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,18-Nov-90
+39,Catheterization date,26-Nov-90
+40,Admission date,18-Nov-90
+41,Medication pre admission,Metoprolol
+42,Start lysis therapy (hh.mm),20
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 Mio IE
+45,Additional medication,Nitrate Triflupromazin ASA Diazepam Oxazepam
+46,In hospital medication,Metprolol Isosorbit-Mononitrate Ca-antagonist
+47,Medication after discharge,Metprolol Isosorbit-Mononitrate ASA

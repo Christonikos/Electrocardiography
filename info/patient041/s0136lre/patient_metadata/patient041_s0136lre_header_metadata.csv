@@ -1,0 +1,49 @@
+,feature,value
+0,age,65
+1,sex,male
+2,ECG date,27/02/1991
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),infero-lateral
+6,Former infarction (localization),postero-lateral
+7,Additional diagnoses,"Gastric ulcers, Hyperglykemia"
+8,Smoker,no
+9,Number of coronary vessels involved,2
+10,Infarction date (acute),24-Feb-91
+11,Previous infarction (1) date,01-Jan-86
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,11-Mar-91
+15,Ventriculography,Hypokinesia/Akinesia infero-lateralen wall and apex
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),n/a
+18,Pulmonary artery pressure (at rest) (syst/diast),21/9 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),13 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),7 cmH2O
+21,Cardiac output (at rest),"4,73 l/min"
+22,Cardiac index (at rest),"2,6 l/min/sqrmBSA"
+23,Stroke volume index (at rest),33.3 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),49/22 cmH2O
+25,Pulmonary artery pressure (laod) (mean),37 cmH2O
+26,Pulmonary capillary wedge pressure (load),29 cmH2O
+27,Cardiac output (load),"7,84 l/min"
+28,Cardiac index (load),"4,31 l/min/sqrmBSA"
+29,Stroke volume index (load),"39,9 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),No stenoses
+34,Left coronary artery stenoses (RCX),A vessel originating from ramus marginalis sinister 70%
+35,Right coronary artery stenoses (RCA),RCA proximal to ramus ventricularis dexter 30%. RCA peripheral 100%. Ramus postero-lateralis 100% at origin
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,24-Feb-91
+39,Catheterization date,11-Mar-91
+40,Admission date,24-Feb-91
+41,Medication pre admission,Isosorbit-Dinitrate Ca-antagonist
+42,Start lysis therapy (hh.mm),15
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 Mio IE
+45,Additional medication,Nitrate Heparin ASA
+46,In hospital medication,ASA Isosorbit-Mononitrate Ca-antagonist Amiloride+Chlorothiazide
+47,Medication after discharge,ASA Isosorbit-Mononitrate Ca-antagonist

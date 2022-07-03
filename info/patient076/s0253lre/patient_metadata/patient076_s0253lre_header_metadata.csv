@@ -1,0 +1,49 @@
+,feature,value
+0,age,43
+1,sex,male
+2,ECG date,12/02/1992
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),antero-lateral
+6,Former infarction (localization),no
+7,Additional diagnoses,no
+8,Smoker,yes
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),30-Jan-92
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,30-Sep-92
+15,Ventriculography,"Akinesia antero-lateral and inferior wall, Dyskinesia apex"
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),160/95 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),25/12 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),18 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),12 cmH2O
+21,Cardiac output (at rest),"7,65 l/min"
+22,Cardiac index (at rest),"3,83 l/min/sqrmBSA"
+23,Stroke volume index (at rest),31.9 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),37/12 cmH2O
+25,Pulmonary artery pressure (laod) (mean),24 cmH2O
+26,Pulmonary capillary wedge pressure (load),12 cmH2O
+27,Cardiac output (load),13 l/min
+28,Cardiac index (load),"6,5 l/min/sqrmBSA"
+29,Stroke volume index (load),"40,1 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),RIVA proximal 50%
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,30-Jan-92
+39,Catheterization date,30-Sep-92
+40,Admission date,30-Jan-92
+41,Medication pre admission,-
+42,Start lysis therapy (hh.mm),07
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 Mio IE
+45,Additional medication,Nitrate Metoprolol Furosemide
+46,In hospital medication,ASA Ranitidin Bezafibratone
+47,Medication after discharge,ASA Ranitidin Bezafibratone

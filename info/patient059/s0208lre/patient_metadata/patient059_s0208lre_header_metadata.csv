@@ -1,0 +1,49 @@
+,feature,value
+0,age,63
+1,sex,female
+2,ECG date,14/08/1991
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),infero-lateral
+6,Former infarction (localization),no
+7,Additional diagnoses,"Hyperlipoproteinemia Type IIb, Arterial hypertension, Obesity"
+8,Smoker,no
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),31-Jul-91
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,07-Aug-91
+15,Ventriculography,Akinesia inferior
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),150/110 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),18/9 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),12 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),8 cmH2O
+21,Cardiac output (at rest),"4,21 l/min"
+22,Cardiac index (at rest),"3,65 l/min/sqrmBSA"
+23,Stroke volume index (at rest),26.0 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),44/26 cmH2O
+25,Pulmonary artery pressure (laod) (mean),35 cmH2O
+26,Pulmonary capillary wedge pressure (load),27 cmH2O
+27,Cardiac output (load),"6,45 l/min"
+28,Cardiac index (load),"4,06 l/min/sqrmBSA"
+29,Stroke volume index (load),"31,2 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,10 cmH2O
+33,Left coronary artery stenoses (RIVA),RIVA proximal to ramus diagonalis_1 50%
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),RCA distal to ramus ventricularis dexter 90%
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,31-Jul-91
+39,Catheterization date,07-Aug-91
+40,Admission date,31-Jul-91
+41,Medication pre admission,-
+42,Start lysis therapy (hh.mm),06
+43,Lytic agent,Gamma-TPA
+44,Dosage (lytic agent),100 mg
+45,Additional medication,Heparin ASA Isosorbit-Dinitrate Molsidomin Furosemide
+46,In hospital medication,ASA Isosorbit-Dinitrate Molsidomin Metprolol
+47,Medication after discharge,ASA

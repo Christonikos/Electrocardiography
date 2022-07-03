@@ -1,0 +1,49 @@
+,feature,value
+0,age,68
+1,sex,male
+2,ECG date,07/01/1993
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),anterior
+6,Former infarction (localization),no
+7,Additional diagnoses,"Diabetes mellitus, Arterial hypertension, Hypercholesterinemia"
+8,Smoker,no
+9,Number of coronary vessels involved,3
+10,Infarction date (acute),04-Dec-92
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,18-Dec-92
+15,Ventriculography,Dyskinesia apex
+16,Chest X-ray,Slightly enlarged left heart
+17,Peripheral blood Pressure (syst/diast),n/a
+18,Pulmonary artery pressure (at rest) (syst/diast),n/a
+19,Pulmonary artery pressure (at rest) (mean),n/a
+20,Pulmonary capillary wedge pressure (at rest),n/a
+21,Cardiac output (at rest),n/a
+22,Cardiac index (at rest),n/a
+23,Stroke volume index (at rest),n/a
+24,Pulmonary artery pressure (laod) (syst/diast),n/a
+25,Pulmonary artery pressure (laod) (mean),n/a
+26,Pulmonary capillary wedge pressure (load),n/a
+27,Cardiac output (load),n/a
+28,Cardiac index (load),n/a
+29,Stroke volume index (load),n/a
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),"RIVA proximal to ramus diagonalis_1 60-70%, distal to a big ramus septalis 70%. This ramus septalis has a 90% stenosis at origin. More distal RIVA 100%"
+34,Left coronary artery stenoses (RCX),Ramus marginalis sinister 100% at origin
+35,Right coronary artery stenoses (RCA),Ramus marginalis dexter proximal 75%
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,04-Dec-92
+39,Catheterization date,18-Dec-92
+40,Admission date,04-Dec-92
+41,Medication pre admission,Digitoxin Amiloride+Chlorothiazide
+42,Start lysis therapy (hh.mm),-
+43,Lytic agent,-
+44,Dosage (lytic agent),n/a
+45,Additional medication,Heparin Digitoxin Furosemide ASA Ca-antagonist Isosorbit-Dinitrate Molsidomin
+46,In hospital medication,Digitoxin ASA Isosorbit-Dinitrate Molsidomin Ca-antagonist
+47,Medication after discharge,Digitoxin ASA Isosorbit-Dinitrate Molsidomin Ca-antagonist Enalapril Phenprocoumon

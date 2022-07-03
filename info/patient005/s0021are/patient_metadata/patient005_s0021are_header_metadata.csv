@@ -1,0 +1,49 @@
+,feature,value
+0,age,74
+1,sex,male
+2,ECG date,24/10/1990
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),anterior
+6,Former infarction (localization),no
+7,Additional diagnoses,Skoliosis
+8,Smoker,no
+9,Number of coronary vessels involved,2
+10,Infarction date (acute),23-Oct-90
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,30-Oct-90
+15,Ventriculography,Akinesia antero-lateral and infero-apical wall
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),140/70 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),27/14 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),22 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),18 cmH2O
+21,Cardiac output (at rest),"4,34 l/min"
+22,Cardiac index (at rest),"2,47 l/min/sqrmBSA"
+23,Stroke volume index (at rest),26.5 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),52/32 cmH2O
+25,Pulmonary artery pressure (laod) (mean),43 cmH2O
+26,Pulmonary capillary wedge pressure (load),35 cmH2O
+27,Cardiac output (load),"6,1 l/min"
+28,Cardiac index (load),"3,47 l/min/sqrmBSA"
+29,Stroke volume index (load),"29,9 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),"RIVA 100% proximal to ramus diagonalis_1, Ramus marginalis sinister_1 80%, Ramus intermedius 90%"
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,23-Oct-90
+39,Catheterization date,30-Oct-90
+40,Admission date,23-Oct-90
+41,Medication pre admission,Naftidrofurylhydrogenoxalate Ca-antagonist
+42,Start lysis therapy (hh.mm),20
+43,Lytic agent,Gamma-TPA
+44,Dosage (lytic agent),30 mg
+45,Additional medication,ASA Ca-antagonist Amiloride+Chlorothiazide Triflupromazin Nitrate
+46,In hospital medication,Isosorbit-Mononitrate Captopril Isosorbit-Dinitrate Rhythmonorm
+47,Medication after discharge,Isosorbit-Dinitrate Captopril Propafenone ASA

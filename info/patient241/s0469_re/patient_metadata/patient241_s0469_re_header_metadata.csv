@@ -1,0 +1,49 @@
+,feature,value
+0,age,33
+1,sex,male
+2,ECG date,24/10/1996
+3,Diagnose,no_entry
+4,Reason for admission,Healthy control
+5,Acute infarction (localization),no
+6,Former infarction (localization),no
+7,Additional diagnoses,no
+8,Smoker,unknown
+9,Number of coronary vessels involved,unknown
+10,Infarction date (acute),n/a
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,n/a
+15,Ventriculography,n/a
+16,Chest X-ray,n/a
+17,Peripheral blood Pressure (syst/diast),n/a
+18,Pulmonary artery pressure (at rest) (syst/diast),n/a
+19,Pulmonary artery pressure (at rest) (mean),n/a
+20,Pulmonary capillary wedge pressure (at rest),n/a
+21,Cardiac output (at rest),n/a
+22,Cardiac index (at rest),n/a
+23,Stroke volume index (at rest),n/a
+24,Pulmonary artery pressure (laod) (syst/diast),n/a
+25,Pulmonary artery pressure (laod) (mean),n/a
+26,Pulmonary capillary wedge pressure (load),n/a
+27,Cardiac output (load),n/a
+28,Cardiac index (load),n/a
+29,Stroke volume index (load),n/a
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),n/a
+34,Left coronary artery stenoses (RCX),n/a
+35,Right coronary artery stenoses (RCA),n/a
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,n/a
+39,Catheterization date,n/a
+40,Admission date,n/a
+41,Medication pre admission,n/a
+42,Start lysis therapy (hh.mm),n/a
+43,Lytic agent,n/a
+44,Dosage (lytic agent),n/a
+45,Additional medication,n/a
+46,In hospital medication,n/a
+47,Medication after discharge,n/a

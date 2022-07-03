@@ -1,0 +1,49 @@
+,feature,value
+0,age,64
+1,sex,female
+2,ECG date,17/04/1991
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),antero-septal
+6,Former infarction (localization),anterior
+7,Additional diagnoses,Postop. Thyroidectomy
+8,Smoker,yes
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),17-Apr-91
+11,Previous infarction (1) date,01-Jan-88
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,03-May-91
+15,Ventriculography,"Dilated left ventricle, Akinesia antero-lateral wall, Dyskinesia apex"
+16,Chest X-ray,Heart size upper limit of norm
+17,Peripheral blood Pressure (syst/diast),110/80 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),n/a
+19,Pulmonary artery pressure (at rest) (mean),n/a
+20,Pulmonary capillary wedge pressure (at rest),n/a
+21,Cardiac output (at rest),n/a
+22,Cardiac index (at rest),n/a
+23,Stroke volume index (at rest),n/a
+24,Pulmonary artery pressure (laod) (syst/diast),n/a
+25,Pulmonary artery pressure (laod) (mean),n/a
+26,Pulmonary capillary wedge pressure (load),n/a
+27,Cardiac output (load),n/a
+28,Cardiac index (load),n/a
+29,Stroke volume index (load),n/a
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,"pre ventriculography 6, post ventriculography 10 cmH2O"
+33,Left coronary artery stenoses (RIVA),RIVA proximal to ramus diagonalis_1 50-70%
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,17-Apr-91
+39,Catheterization date,03-May-91
+40,Admission date,17-Apr-91
+41,Medication pre admission,Diazepam L-Thyroxin Metoprolol
+42,Start lysis therapy (hh.mm),05
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 Mio IE
+45,Additional medication,Heparin Isosorbit-Mononitrate ASA Digitoxin Captopril Amiloride+Chlorothiazide L-Thyrox
+46,In hospital medication,Digitoxin Captopril Isosorbit-Dinitrate ASA L-Thyroxin Furosemide Metoprolol
+47,Medication after discharge,Digitoxin Captopril Isosorbit-Dinitrate ASA L-Thyroxin

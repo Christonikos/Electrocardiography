@@ -1,0 +1,49 @@
+,feature,value
+0,age,54
+1,sex,male
+2,ECG date,14/08/1991
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),antero-septal
+6,Former infarction (localization),no
+7,Additional diagnoses,Kidney stones
+8,Smoker,no
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),10-Aug-91
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,15-Aug-91
+15,Ventriculography,"Akinesia/Dyskinesie apex, Hypokinesia antero-basal wall"
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),140/60 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),18/7 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),12 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),6 cmH2O
+21,Cardiac output (at rest),"4,8 l/min"
+22,Cardiac index (at rest),"2,68 l/min/sqrmBSA"
+23,Stroke volume index (at rest),32.0 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),36/14 cmH2O
+25,Pulmonary artery pressure (laod) (mean),33 cmH2O
+26,Pulmonary capillary wedge pressure (load),13 cmH2O
+27,Cardiac output (load),"8,5 l/min"
+28,Cardiac index (load),"4,75 l/min/sqrmBSA"
+29,Stroke volume index (load),42 ml/beat
+30,Aorta (at rest) (syst/diast),95/63 cmH2O
+31,Aorta (at rest) mean,72 cmH2O
+32,Left ventricular enddiastolic pressure,"pre ventriculography 3, post ventriculography 8 cmH2O"
+33,Left coronary artery stenoses (RIVA),RIVA distal to ramus diagonalis_2 80%
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,10-Aug-91
+39,Catheterization date,15-Aug-91
+40,Admission date,10-Aug-91
+41,Medication pre admission,Trifluoperazine
+42,Start lysis therapy (hh.mm),00
+43,Lytic agent,Gamma-TPA
+44,Dosage (lytic agent),100 mg
+45,Additional medication,Nitrate Heparin ASA Metoprolol
+46,In hospital medication,ASA Metoprolol
+47,Medication after discharge,ASA Bisoprolol Ca-antagonist

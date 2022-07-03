@@ -1,0 +1,49 @@
+,feature,value
+0,age,46
+1,sex,male
+2,ECG date,12/11/1990
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),anterior
+6,Former infarction (localization),no
+7,Additional diagnoses,"Rheumatoid arthritis,Hyperlipoproteinemia Type IV"
+8,Smoker,no
+9,Number of coronary vessels involved,1
+10,Infarction date (acute),01-Nov-90
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,08-Nov-90
+15,Ventriculography,Akinesia antero-lateral wall and apex
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),140/80 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),16/8 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),12 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),13 cmH2O
+21,Cardiac output (at rest),"5,75 l/min"
+22,Cardiac index (at rest),3 l/min/sqrmBSA
+23,Stroke volume index (at rest),33.0 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),36/12 cmH2O
+25,Pulmonary artery pressure (laod) (mean),33 cmH2O
+26,Pulmonary capillary wedge pressure (load),14 cmH2O
+27,Cardiac output (load),"9,5 l/min"
+28,Cardiac index (load),5 l/min/sqrmBSA
+29,Stroke volume index (load),40 ml/beat
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,"in Ruhe 7, nach ventriculography 11 cmH2O"
+33,Left coronary artery stenoses (RIVA),RIVA 100% proximal to ramus diagonalis_2
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),No stenoses
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,01-Nov-90
+39,Catheterization date,08-Nov-90
+40,Admission date,01-Nov-90
+41,Medication pre admission,Purin-antagonist Diclofenac
+42,Start lysis therapy (hh.mm),10
+43,Lytic agent,Gamma-TPA
+44,Dosage (lytic agent),30 mg
+45,Additional medication,Heparin ASA Isosorbit-Dinitrate Molsidomin Metoprolol Amiloride+Chlorothiazide Ca-antagonist
+46,In hospital medication,ASA Isosorbit-Dinitrate Molsidomin Metoprolol
+47,Medication after discharge,ASA Isosorbit-Dinitrate Ca-antagonist

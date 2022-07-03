@@ -1,0 +1,49 @@
+,feature,value
+0,age,65
+1,sex,male
+2,ECG date,17/02/1992
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),inferior
+6,Former infarction (localization),no
+7,Additional diagnoses,"Arterial hypertension, Diabetes mellitus"
+8,Smoker,yes
+9,Number of coronary vessels involved,unknown
+10,Infarction date (acute),12-Feb-92
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,-
+15,Ventriculography,not available
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),100/80 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),n/a
+19,Pulmonary artery pressure (at rest) (mean),n/a
+20,Pulmonary capillary wedge pressure (at rest),n/a
+21,Cardiac output (at rest),n/a
+22,Cardiac index (at rest),n/a
+23,Stroke volume index (at rest),n/a
+24,Pulmonary artery pressure (laod) (syst/diast),n/a
+25,Pulmonary artery pressure (laod) (mean),n/a
+26,Pulmonary capillary wedge pressure (load),n/a
+27,Cardiac output (load),n/a
+28,Cardiac index (load),n/a
+29,Stroke volume index (load),n/a
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),not available
+34,Left coronary artery stenoses (RCX),not available
+35,Right coronary artery stenoses (RCA),not available
+36,Echocardiography,"Hypokinesia/Akinesia of the distal apikal septum, apex, adjacent parts of the anterior and the entire inferioren wall"
+37,Therapy,no_entry
+38,Infarction date,12-Feb-92
+39,Catheterization date,-
+40,Admission date,12-Feb-92
+41,Medication pre admission,Glibenclamide Furosemide
+42,Start lysis therapy (hh.mm),-
+43,Lytic agent,n/a
+44,Dosage (lytic agent),-
+45,Additional medication,Nitrate Heparin ASA Digoxin Glibenclamide
+46,In hospital medication,Isosorbit-Dinitrate Glibenclamide ASA Enalapril Digoxin
+47,Medication after discharge,Enalapril Glibenclamide

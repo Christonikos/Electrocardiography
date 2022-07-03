@@ -1,0 +1,49 @@
+,feature,value
+0,age,60
+1,sex,male
+2,ECG date,24/01/1991
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),antero-septal
+6,Former infarction (localization),no
+7,Additional diagnoses,Hypercholesterinemia
+8,Smoker,no
+9,Number of coronary vessels involved,2
+10,Infarction date (acute),20-Jan-91
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,28-Jan-91
+15,Ventriculography,Limited hypokinesia anterior wall and apex
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),100/65 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),20/14 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),12 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),8 cmH2O
+21,Cardiac output (at rest),"6,03 l/min"
+22,Cardiac index (at rest),"3,05 l/min/sqrmBSA"
+23,Stroke volume index (at rest),51.0 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),56/19 cmH2O
+25,Pulmonary artery pressure (laod) (mean),35 cmH2O
+26,Pulmonary capillary wedge pressure (load),29 cmH2O
+27,Cardiac output (load),"13,4 l/min"
+28,Cardiac index (load),"6,8 l/min/sqrmBSA"
+29,Stroke volume index (load),"70,5 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),RIVA 80%.
+34,Left coronary artery stenoses (RCX),RCX 60%
+35,Right coronary artery stenoses (RCA),n/a
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,20-Jan-91
+39,Catheterization date,28-Jan-91
+40,Admission date,20-Jan-91
+41,Medication pre admission,-
+42,Start lysis therapy (hh.mm),13
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 Mio IE
+45,Additional medication,Nitrate Heparin Triflupromazin
+46,In hospital medication,Ca-antagonist Isosorbit-Mononitrate ASA Isosorbit-Dinitrate Colestyramin
+47,Medication after discharge,ASA Isosorbit-Dinitrate Colestyramin

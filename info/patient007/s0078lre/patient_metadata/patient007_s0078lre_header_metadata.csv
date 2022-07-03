@@ -1,0 +1,49 @@
+,feature,value
+0,age,70
+1,sex,male
+2,ECG date,17/12/1990
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),anterior
+6,Former infarction (localization),antero-septal
+7,Additional diagnoses,Hyperlipoproteinemia
+8,Smoker,no
+9,Number of coronary vessels involved,3
+10,Infarction date (acute),28-Oct-90
+11,Previous infarction (1) date,23-Dec-89
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,05-Nov-90
+15,Ventriculography,"Akinesia/Dyskinesia antero-lateral, apex and inferior wall"
+16,Chest X-ray,normal
+17,Peripheral blood Pressure (syst/diast),140/90 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),23/6 cmH2O
+19,Pulmonary artery pressure (at rest) (mean),13 cmH2O
+20,Pulmonary capillary wedge pressure (at rest),7 cmH2O
+21,Cardiac output (at rest),"6,96 l/min"
+22,Cardiac index (at rest),"3,78 l/min/sqrmBSA"
+23,Stroke volume index (at rest),48.5 ml/beat
+24,Pulmonary artery pressure (laod) (syst/diast),53/17 cmH2O
+25,Pulmonary artery pressure (laod) (mean),36 cmH2O
+26,Pulmonary capillary wedge pressure (load),30 cmH2O
+27,Cardiac output (load),"11,76 l/min"
+28,Cardiac index (load),"6,39 l/min/sqrmBSA"
+29,Stroke volume index (load),"53,3 ml/beat"
+30,Aorta (at rest) (syst/diast),n/a
+31,Aorta (at rest) mean,n/a
+32,Left ventricular enddiastolic pressure,n/a
+33,Left coronary artery stenoses (RIVA),"RIVA proximal to ramus diagonalis_1 100%,"
+34,Left coronary artery stenoses (RCX),Posterolateral ramus of RCX 75%
+35,Right coronary artery stenoses (RCA),"RCA distal to ramus ventricularis dexter 70%, Ramus interventricularis posterior 95%"
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,28-Oct-90
+39,Catheterization date,05-Nov-90
+40,Admission date,28-Oct-90
+41,Medication pre admission,Isosorbit-Mononitrate Isosorbit-Dinitrate Ca-antagonist ASA
+42,Start lysis therapy (hh.mm),05
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 MIO IE
+45,Additional medication,Isosorbit-Mononitrate ASA Ca-antagonist
+46,In hospital medication,Ranitidin Buprenorphin Nitrate
+47,Medication after discharge,ASA Isosorbit-Mononitrate Ca-antagonist Metoprolol

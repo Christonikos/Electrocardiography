@@ -1,0 +1,49 @@
+,feature,value
+0,age,43
+1,sex,male
+2,ECG date,03/12/1992
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),antero-lateral
+6,Former infarction (localization),no
+7,Additional diagnoses,"Diabetes mellitus, Arterial hypertension, Obesity"
+8,Smoker,yes
+9,Number of coronary vessels involved,2
+10,Infarction date (acute),02-Dec-92
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,14-Dec-92
+15,Ventriculography,Akinesia antero-lateral wall
+16,Chest X-ray,"Normal sized heart, Pulmonary nenous congestion"
+17,Peripheral blood Pressure (syst/diast),120/90 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),n/a
+19,Pulmonary artery pressure (at rest) (mean),n/a
+20,Pulmonary capillary wedge pressure (at rest),n/a
+21,Cardiac output (at rest),n/a
+22,Cardiac index (at rest),n/a
+23,Stroke volume index (at rest),n/a
+24,Pulmonary artery pressure (laod) (syst/diast),n/a
+25,Pulmonary artery pressure (laod) (mean),n/a
+26,Pulmonary capillary wedge pressure (load),n/a
+27,Cardiac output (load),n/a
+28,Cardiac index (load),n/a
+29,Stroke volume index (load),n/a
+30,Aorta (at rest) (syst/diast),160/82 cmH2O
+31,Aorta (at rest) mean,118 cmH2O
+32,Left ventricular enddiastolic pressure,28 cmH2O
+33,Left coronary artery stenoses (RIVA),RIVA proximal to ramus diagonalis_1 >80%
+34,Left coronary artery stenoses (RCX),No stenoses
+35,Right coronary artery stenoses (RCA),RCA proximal 100%
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,02-Dec-92
+39,Catheterization date,14-Dec-92
+40,Admission date,02-Dec-92
+41,Medication pre admission,Maloxan Glibenclamide Propranolol
+42,Start lysis therapy (hh.mm),17
+43,Lytic agent,Streptokinase
+44,Dosage (lytic agent),1.5 Mio IE
+45,Additional medication,Nitrate ASA Metoprolol Glibenclamide
+46,In hospital medication,ASA Metoprolol Glibenclamide Amiloride+Chlorothiazide
+47,Medication after discharge,ASA Metoprolol Glibenclamide Amiloride+Chlorothiazide

@@ -1,0 +1,49 @@
+,feature,value
+0,age,80
+1,sex,female
+2,ECG date,26/10/1992
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),infero-lateral
+6,Former infarction (localization),no
+7,Additional diagnoses,"Arterial hypertension, Hyperlipoproteinemia Type IIa"
+8,Smoker,no
+9,Number of coronary vessels involved,3
+10,Infarction date (acute),25-Oct-92
+11,Previous infarction (1) date,n/a
+12,Previous infarction (2) date,n/a
+13,Hemodynamics,no_entry
+14,Catheterization date,16-Apr-92
+15,Ventriculography,normal
+16,Chest X-ray,Heart size upper limit of norm
+17,Peripheral blood Pressure (syst/diast),150/60 mmHg
+18,Pulmonary artery pressure (at rest) (syst/diast),n/a
+19,Pulmonary artery pressure (at rest) (mean),n/a
+20,Pulmonary capillary wedge pressure (at rest),n/a
+21,Cardiac output (at rest),n/a
+22,Cardiac index (at rest),n/a
+23,Stroke volume index (at rest),n/a
+24,Pulmonary artery pressure (laod) (syst/diast),n/a
+25,Pulmonary artery pressure (laod) (mean),n/a
+26,Pulmonary capillary wedge pressure (load),n/a
+27,Cardiac output (load),n/a
+28,Cardiac index (load),n/a
+29,Stroke volume index (load),n/a
+30,Aorta (at rest) (syst/diast),164/56 cmH2O
+31,Aorta (at rest) mean,96 cmH2O
+32,Left ventricular enddiastolic pressure,"pre ventriculography 7, post ventriculography 16 cmH2O"
+33,Left coronary artery stenoses (RIVA),RIVA distal to ramus diagonalis_1 >70%.
+34,Left coronary artery stenoses (RCX),RCX distal to ramus marginalis sinister_1 70%
+35,Right coronary artery stenoses (RCA),RCA proximal 60%
+36,Echocardiography,n/a
+37,Therapy,no_entry
+38,Infarction date,25-Oct-92
+39,Catheterization date,16-Apr-92
+40,Admission date,25-Oct-92
+41,Medication pre admission,Nitrate Ca-antagonist Bezafibratone Digoxin Dihydroergotoxin-mesilate
+42,Start lysis therapy (hh.mm),-
+43,Lytic agent,n/a
+44,Dosage (lytic agent),n/a
+45,Additional medication,Nitrate Heparin
+46,In hospital medication,ASA Metprolol Isosorbit-Dinitrate Molsidomin Ca-antagonist Amiloride+Chlorothiazide Mefruside
+47,Medication after discharge,ASA Ca-antagonist Metprolol Isosorbit-Dinitrate Molsidomin Mefruside

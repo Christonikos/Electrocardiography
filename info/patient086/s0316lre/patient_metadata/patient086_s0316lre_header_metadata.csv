@@ -1,0 +1,49 @@
+,feature,value
+0,age,66
+1,sex,female
+2,ECG date,31/07/1992
+3,Diagnose,no_entry
+4,Reason for admission,Myocardial infarction
+5,Acute infarction (localization),infero-lateral
+6,Former infarction (localization),"anterior (1), anterior (2)"
+7,Additional diagnoses,"Hyperlipoproteinemia Type IV b, Diabetes mellitus, Peripheral atherosclerosis, Arterial hypertension, Cerebral stroke, Colon cancer"
+8,Smoker,yes
+9,Number of coronary vessels involved,3
+10,Infarction date (acute),31-Jul-92
+11,Previous infarction (1) date,01-Jan-91
+12,Previous infarction (2) date,01-Jan-87
+13,Hemodynamics,no_entry
+14,Catheterization date,13-Aug-92
+15,Ventriculography,Hypokinesia inferior
+16,Chest X-ray,"Left ventricular enlargement, pulmonary venous congestion"
+17,Peripheral blood Pressure (syst/diast),n/a
+18,Pulmonary artery pressure (at rest) (syst/diast),n/a
+19,Pulmonary artery pressure (at rest) (mean),n/a
+20,Pulmonary capillary wedge pressure (at rest),n/a
+21,Cardiac output (at rest),n/a
+22,Cardiac index (at rest),n/a
+23,Stroke volume index (at rest),n/a
+24,Pulmonary artery pressure (laod) (syst/diast),n/a
+25,Pulmonary artery pressure (laod) (mean),n/a
+26,Pulmonary capillary wedge pressure (load),n/a
+27,Cardiac output (load),n/a
+28,Cardiac index (load),n/a
+29,Stroke volume index (load),n/a
+30,Aorta (at rest) (syst/diast),174/69 cmH2O
+31,Aorta (at rest) mean,108 cmH2O
+32,Left ventricular enddiastolic pressure,13 cmH2O
+33,Left coronary artery stenoses (RIVA),"RIVA proximal 70%, close to origin of ramus diagonalis_2 70%."
+34,Left coronary artery stenoses (RCX),RCX distal to ramus marginalis_1 70%
+35,Right coronary artery stenoses (RCA),RCA distal to ramus ventricularis dexter 70%
+36,Echocardiography,LV hypertrophy. Akinesia of the distal and apikal antero-septal wall and of the lateral wall
+37,Therapy,no_entry
+38,Infarction date,31-Jul-92
+39,Catheterization date,13-Aug-92
+40,Admission date,31-Jul-92
+41,Medication pre admission,Ca-antagonist Captopril Isosorbit-Mononitrate Digoxin ASA Tilidin Nitrate-Spray
+42,Start lysis therapy (hh.mm),-
+43,Lytic agent,-
+44,Dosage (lytic agent),-
+45,Additional medication,Heparin Isosorbit-Dinitrate ret. Molsidomin Digoxin Ca-antagonist Furosemide Captopril ASA Glibenclamide Ranitidin Diazepam
+46,In hospital medication,Digoxin Captopril Isosorbit-Dinitrate Molsidomin ASA Furosemide Glibenclamide Diazepam
+47,Medication after discharge,Digoxin Metprolol Isosorbit-Dinitrate ASA Furosemide Glibenclamide Molsidomin Diazepam Lactulose
