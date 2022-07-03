@@ -1,2 +1,5 @@
-# idoven_assignment
-<embed src="/blog/images/xxx.pdf" type="application/idoven_results_presentation.pdf">
+# Analysis of the PTB ECG dataset.
+
+- Code structure
+
+The analysis 
