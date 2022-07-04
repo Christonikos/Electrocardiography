@@ -13,11 +13,20 @@ The steps are the following:
      00_get_patient_info.py
      ```
      This script reads the patient info and logs information in the log file
-     (i.e: number of patients). Additionally, it loads the metadata for each patient
+     (i.e: number of patients). Additionally, it loads the header metadata for each patient
      and stores this info in different directories.
 
-     This allows us to build a processing pipeline that runs at the patient level
-     and can be fully parallelized in the future.
+     Importantly, for each patient and each recording, the script extracts the following information:
+
+        1. The variance of each channel.
+        2. The mean amplitude of each channel.
+        3. The median amplirude of each channel.
+        4. The mean value of the 1st derivative (how fast, on average
+                                                 the data changes)
+        5. The median value of the 1st derivative
+        6. The peak of the power-spectral density for each lead. 
+
+     For info on how these values are derived see the .pdf file that accompanies this repository.   
 
      !!!! This function runs in parallel and uses all threads. To change the 
      number of threads, see the variable "n_jobs" @config.py
