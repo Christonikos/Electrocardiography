@@ -1,6 +1,6 @@
 # Analysis of the PTB ECG dataset.
 
-:bangbang: The results and details about the analysis and the code structure can be found at the .pdf file "idoven_results_presentation.pdf" that accompanies this repository.
+:bangbang: The results and details about the analysis and the code structure can be found at the .pdf file <span style="color:blue">*"idoven_results_presentation.pdf"* </span> that accompanies this repository.
 
 -Code structure
 
