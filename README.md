@@ -21,8 +21,7 @@ The steps are the following:
         1. The variance of each channel.
         2. The mean amplitude of each channel.
         3. The median amplirude of each channel.
-        4. The mean value of the 1st derivative (how fast, on average
-                                                 the data changes)
+        4. The mean value of the 1st derivative 
         5. The median value of the 1st derivative
         6. The peak of the power-spectral density for each lead. 
 
