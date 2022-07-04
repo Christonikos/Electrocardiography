@@ -30,3 +30,24 @@ The steps are the following:
 
      !!!! This function runs in parallel and uses all threads. To change the 
      number of threads, see the variable "n_jobs" @config.py
+
+  2. Read all the header metadata and construct a dataframe with information for all patients. Extract the differenct classes (e.g: 'healthy control')        and store that in a pickle file. To do that, launch the script:
+     ```
+     01_get_cohort_statistics.py
+     ```
+  3. Using the metadata extracted @01_, perform explatory data analysis. Save images at the "images" dir.
+     ```
+     02_eda.py 
+     ```
+  4.  Preprocess the time series (smoothing with Gaussian kernal and Standarization). The time series are then saved as a numpy array per patient and           record at the "preprocessed" dir.
+      ```
+      03_data_preprocessing.py 
+      ```
+  5.  Perform univariate binary classification for each ELECTRODE and for each available pathologies against the "healthy control" sub-cohort.
+      ```
+      04_modelling.py 
+      ```
+  6.  Plot the results of the modelling analysis as a HEATMAP.
+      ```
+      05_plot_model_results.py 
+      ```      
